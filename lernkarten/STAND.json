@@ -1,0 +1,32 @@
+{
+  "datum": "2026-11-14",
+  "quelle": "vokabeln.json",
+  "anzahl": 306,
+  "erste_id": "v001",
+  "letzte_id": "v306",
+  "regel": "Bei jedem Update von vokabeln.json Gesamtset und Delta-Set neu erzeugen.",
+  "vorheriger_kartenstand": {
+    "datei": "lernkarten-duplex.pdf",
+    "anzahl": 212,
+    "id_von": "v001",
+    "id_bis": "v212",
+    "seiten": 18,
+    "commit": "17e2a78b7a82735386504fd3f8b4c627cedea353",
+    "datum": "2026-10-24"
+  },
+  "gesamt": {
+    "datei": "lernkarten/lernkarten-gesamt-2026-11-14.pdf",
+    "vokabeln": 306,
+    "id_von": "v001",
+    "id_bis": "v306",
+    "seiten": 26
+  },
+  "delta": {
+    "datei": "lernkarten/lernkarten-delta-2026-11-14.pdf",
+    "nach_id": "v212",
+    "vokabeln": 94,
+    "id_von": "v213",
+    "id_bis": "v306",
+    "seiten": 8
+  }
+}
